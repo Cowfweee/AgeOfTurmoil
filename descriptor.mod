@@ -1,0 +1,16 @@
+version="1"
+tags={
+	"Events"
+	"Gameplay"
+	"Historical"
+	"Alternative History"
+	"Map"
+	"National Focuses"
+	"Technologies"
+	"Military"
+	"Ideologies"
+}
+name="Age of Turmoil"
+picture="AOT.png"
+supported_version="1.16.0"
+remote_file_id="3442380850"
